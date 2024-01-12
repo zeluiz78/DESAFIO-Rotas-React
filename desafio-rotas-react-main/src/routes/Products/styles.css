@@ -1,0 +1,15 @@
+.products-navbar {
+  background-color: var(--color-bg-tertiary);
+  margin: 20px auto;
+  height: 60px;
+  padding: 20px;
+}
+
+.products-navbar-item {
+  font-size: 16px;
+  margin-right: 20px;
+}
+
+.products-navbar-item-active {
+  font-weight: 700;
+}
